@@ -18,7 +18,10 @@ import com.example.demo.service.CustomerService;
 
 @RestController
 public class CustomerController {
-
+	//CustomerCRUD
+	
+	
+	//ti7fougyihojp 
     @Autowired
 	private CustomerService cs;
 	
