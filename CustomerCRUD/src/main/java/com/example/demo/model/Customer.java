@@ -6,6 +6,16 @@ import jakarta.persistence.Id;
 @Entity
 public class Customer {
 
+	/*
+	 * 
+	 * 
+	 * 
+	  Customer
+	  
+	  
+	  
+	  
+	 */
 	@Id
 	private Integer id ;
 	private String name;
